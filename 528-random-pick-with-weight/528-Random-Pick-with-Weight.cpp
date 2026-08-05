@@ -1,7 +1,7 @@
 class Solution {
 private:
     vector<int> sum;
-    int tot;
+    int tot=0;
 
 public:
     Solution(vector<int>& w) {
